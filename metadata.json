@@ -1,0 +1,6 @@
+{
+  "name": "ComplyTax",
+  "description": "India's premier tax, business registration, GST compliance, and ROC filing platform with encrypted vault, real-time status tracking, and AI Tax Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
